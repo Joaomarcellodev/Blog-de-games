@@ -1,4 +1,4 @@
-<h1 align="center">🎮 Blog de Games</h1>
+<h1 align="center">🎮 Checkpoint-Blog 🎮</h1>
 
 <p align="center">
   <i>Um espaço dedicado ao universo dos games! 🚀</i>
@@ -28,7 +28,7 @@ O **Blog de Games** é um projeto desenvolvido com **Tailwind CSS**, proporciona
 
 ### 📱 Mobile
 <div align="center">
-  <img height="400" src="INSIRA_O_LINK_DA_IMAGEM_MOBILE" alt="Prévia do Blog de Games no Mobile" />
+  <img height="400" src="https://github.com/Joaomarcellodev/Checkpoint-Blog/blob/main/git/mobile.png?raw=true" alt="Prévia do Blog de Games no Mobile" />
 </div>
 
 ---
