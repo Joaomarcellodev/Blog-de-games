@@ -21,7 +21,7 @@ O **Blog de Games** é um projeto desenvolvido com **Tailwind CSS**, proporciona
 
 ### 💻 Desktop
 <div align="center">
-  <img height="200" src="INSIRA_O_LINK_DA_IMAGEM_DESKTOP" alt="Prévia do Blog de Games no Desktop" />
+  <img height="200" src="https://github.com/Joaomarcellodev/Checkpoint-Blog/blob/main/git/desktop.png?raw=true" alt="Prévia do Blog de Games no Desktop" />
 </div>
 
 ---
